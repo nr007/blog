@@ -8,7 +8,7 @@
 # Site settings
 title: Jan's Place
 email: j.halozan.services@gmail.com
-description: > Personal portfolio and blog for Jan Halozan,
+description: > # Personal portfolio and blog for Jan Halozan,
     an independent iOS developer based in Slovenia. Also a tech head
     and computer science freak.
 baseurl: "" # the subpath of your site, e.g. /blog
